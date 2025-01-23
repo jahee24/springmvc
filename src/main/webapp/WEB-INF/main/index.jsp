@@ -9,7 +9,7 @@
 <body>
 	<h1>Jenkins테스트하기 - 톰캣에 배포</h1>
 	<hr/>
-	<h2><a href="/springmvc/getdata">jenkins  아이템 생성- shell생성</a></h2>
+	<h2><a href="/springmvc/getdata">jenkins  아이템 생성 - shell 생성 </a></h2>
 	<h2><a href="/springmvc/gugu">jenkins 빌드와 배포 자동화</a></h2>
 </body>
 </html>
